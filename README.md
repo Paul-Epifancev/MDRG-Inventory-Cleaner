@@ -15,7 +15,15 @@ Please do not support unauthorized monetization of community work. For your safe
 Любая версия этого мода или его исходного кода, находящаяся за платным доступом, в сервисе по подписке или продаваемая третьими лицами (включая разработчиков игры или других создателей контента), является несанкционированным распространением этого Open Source проекта.
 
 Пожалуйста, не поддерживайте несанкционированную монетизацию труда комьюнити. Для вашей безопасности и поддержки проекта скачивайте ТОЛЬКО из официального репозитория GitHub
+## 🎥 Video Demonstration / Видео-демонстрация
 
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=QYsQayotf0Q" target="_blank">
+    <img src="https://img.youtube.com/vi/QYsQayotf0Q/maxresdefault.jpg" alt="Inventory Cleaner Video Preview" width="600">
+  </a>
+  <br>
+  <sub>🎬 <a href="https://www.youtube.com/watch?v=QYsQayotf0Q" target="_blank">Watch on YouTube / Смотреть на YouTube</a></sub>
+</div> 
 # MDRG-Inventory-Cleaner
 Safely removes corrupted "Missing Items" from MDRG inventory with F8 hotkey. MelonLoader mod.
 # 🧹 MDRG Inventory Cleaner

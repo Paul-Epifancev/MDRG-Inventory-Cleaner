@@ -48,11 +48,11 @@ The cleaner uses deep IL2CPP reflection to safely inspect every `GameItemContain
 ## 🎥 Video Demonstration / Видео-демонстрация
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=QYsQayotf0Q" target="_blank">
-    <img src="https://img.youtube.com/vi/QYsQayotf0Q/maxresdefault.jpg" alt="Inventory Cleaner Video Preview" width="600">
+  <a href="https://www.youtube.com/watch?v=AUVkv0ZHnxQ" target="_blank">
+    <img src="https://img.youtube.com/vi/AUVkv0ZHnxQ/maxresdefault.jpg" alt="M.D.R.G Hidden Variables Viewer Video Preview" width="600">
   </a>
   <br>
-  <sub>🎬 <a href="https://www.youtube.com/watch?v=QYsQayotf0Q" target="_blank">Watch on YouTube / Смотреть на YouTube</a></sub>
+  <sub>🎬 <a href="https://www.youtube.com/watch?v=AUVkv0ZHnxQ" target="_blank">Watch on YouTube / Смотреть на YouTube</a></sub>
 </div>
 
 ---
